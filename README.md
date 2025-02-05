@@ -34,7 +34,7 @@ Bem-vindo ao repositório oficial de reclists (listas de gravação) para UTAU e
 ## ⚠️ Aviso Importante
 
 > Algumas reclists ainda estão em fase de configuração e podem não incluir `oto.ini` pré-definido. Se você gravar uma voicebank e precisar de assistência, nossa equipe oferece:
-> - Configuração básica de `oto.ini` gratuita.
+> - Configuração base de `oto.ini`.
 > - Suporte avançado mediante acordo (ex: projetos comerciais).
 
 ## 👥 Contato
