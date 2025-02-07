@@ -26,7 +26,7 @@ Bem-vindo ao repositório oficial de reclists (listas de gravação) para UTAU e
 
 ## 🚀 Como Usar
 
-1. **Selecione uma Reclist**: Utilize o [dropdown na página web](https://misc-labs.github.io/Reclists-para-UTAU-e-OpenUtau/) para navegar até a pasta desejada.
+1. **Selecione uma Reclist**: Utilize o [dropdown na página web](https://misc-labs.github.io/reclistsmisclabs.github.io/) para navegar até a pasta desejada.
 2. **Faça o Download**: Clone este repositório ou baixe os arquivos diretamente.
 3. **Grave sua Voicebank**: Siga a estrutura de pastas e nomes de arquivos.
 4. **Precisa de Ajuda?**: [Entre em contato](#-contato) para suporte com `oto.ini` ou configurações avançadas.
