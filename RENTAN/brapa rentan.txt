@@ -1,4 +1,7 @@
 ay- ey- oy- uy-
+ehy- ohy-
+aw- ew- iw- ow-
+ehw- ohw-
 anw- enw- inw- onw-
 any- eny- ony uny
 ays- eys- oys uys-
@@ -206,6 +209,20 @@ gron_e_gron
 grun_e_grun
 grax_e_grax
 
+gwa_e_gwa
+gwe_gwe
+gwi_e_gwi
+gwo_e_gwo
+gwu_e_gwu
+gweh_e_gweh
+gwoh_e_gwoh
+gwan_e_gwan
+gwen_e_gwen
+gwin_e_gwin
+gwon_e_gwon
+gwun_e_gwun
+gwax_e_gwax
+
 ha_e_ha
 he_he
 hi_e_hi
@@ -388,6 +405,34 @@ pon_e_pon
 pun_e_pun
 pax_e_pax
 
+pra_e_pra
+pre_pre
+pri_e_pri
+pro_e_pro
+pru_e_pru
+preh_e_preh
+proh_e_proh
+pran_e_pran
+pren_e_pren
+prin_e_prin
+pron_e_pron
+prun_e_prun
+prax_e_prax
+
+pla_e_pla
+ple_ple
+pli_e_pli
+plo_e_plo
+plu_e_plu
+pleh_e_pleh
+ploh_e_ploh
+plan_e_plan
+plen_e_plen
+plin_e_plin
+plon_e_plon
+plun_e_plun
+plax_e_plax
+
 ra_e_ra
 re_re
 ri_e_ri
@@ -485,6 +530,34 @@ vin_e_vin
 von_e_von
 vun_e_vun
 vax_e_vax
+
+vla_e_vla
+vle_vle
+vli_e_vli
+vlo_e_vlo
+vlu_e_vlu
+vleh_e_vleh
+vloh_e_vloh
+vlan_e_vlan
+vlen_e_vlen
+vlin_e_vlin
+vlon_e_vlon
+vlun_e_vlun
+vlax_e_vlax
+
+vra_e_vra
+vre_vre
+vri_e_vri
+vro_e_vro
+vru_e_vru
+vreh_e_vreh
+vroh_e_vroh
+vran_e_vran
+vren_e_vren
+vrin_e_vrin
+vron_e_vron
+vrun_e_vrun
+vrax_e_vrax
 
 wa_e_wa
 we_we
